@@ -1,0 +1,67 @@
+#info-section {
+  padding-top: 15px;
+}
+
+#clr-btn {
+  background-color: #75c0f5;
+}
+
+#weather-data {
+  background-color: #75c0f5;
+}
+
+.current-city-data {
+  min-height: 300px;
+}
+
+.table-box {
+  background-color: #6fe5ff;
+}
+
+tr {
+  margin: 5px;
+}
+
+.card {
+  background-color: #75c0f5;
+  margin: 3px;
+  min-height: 300px;
+}
+
+.hero {
+  background: #75c0f5; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #6fe5ff,
+    #084bdb
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #6fe5ff,
+    #084bdb
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.title {
+  color: #fff;
+}
+
+#submit {
+  color:fff;
+  background-color:#75c0f5 ;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 599px) {
+  .column {
+    margin: 2px;
+    padding: 0 20px 0 20px;
+  }
+
+  .card-content {
+    padding: 20px;
+  }
+}
+
+
