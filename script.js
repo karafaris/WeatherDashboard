@@ -72,7 +72,7 @@ $(document).ready(function () {
   // searches the API for the chosen city
   function search() {
     
-    let queryURL = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&units=imperial&appid=42d98d76405f5b8038f2ad71187af430";
+    let queryURL = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&units=imperial&appid=fcd62884db673055ebf4e59025f42f22";
     let coords = [];
 
     $.ajax({
