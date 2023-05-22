@@ -27,7 +27,7 @@ My motivation was to create an application where you could search a city and the
 
 
 ## Visuals:
-![Screenshot of loaded weather dashboard](media\weather-dashboard-screenshot.jpg)
+![Screenshot of loaded weather dashboard](WeatherDashboard/media/weather-dashboard-screenshot.jpg)
 
 
 ## Data
