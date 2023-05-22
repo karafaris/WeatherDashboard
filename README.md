@@ -1,33 +1,15 @@
-# Weather Dashboard
+# 5 Day Weather Forecast Dashboard
 
-A web-app for checking the current weather and 5-day forecast for a city.
+My motivation was to create an application where you could search a city and then in return the results would should third-party weather data via API. Why I built this project was to practice what I learned in class and apply it in a real life situation. The problem I solved was to set up a 5 day weather dashboard using third party API's, CSS, HTML, and Javascript. What I learned was how to set specific parameters based of the technical API documentation in order to get the specific data I was needing to display.
 
 
-
-## Contents
-
-1. [About](#about)
-    1. [User Story](#user%20story)
-    2. [Acceptance criteria](#acceptance%20criteria)
-    3. [Visuals](#visuals)
-    4. [Data](#data)
-    5. [Build](#build)
-2. [Setup](#setup)
-3. [Credits](#credits)
-4. [License](#license)
-5. [Contributing](#contributing)
-
-### About
-
-Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
-
-### User Story
+## User Story
 
     AS A traveler
     I WANT to see the weather outlook for multiple cities
     SO THAT I can plan a trip accordingly
 
-### Acceptance Criteria
+## Acceptance Criteria
 
     GIVEN a weather dashboard with form inputs
     WHEN I search for a city
@@ -44,19 +26,17 @@ Developers are often tasked with retrieving data from another application's API 
     THEN I am presented with the last searched city forecast 
 
 
-### Visuals:
+## Visuals:
+![Screenshot of loaded weather dashboard](media\weather-dashboard-screenshot.jpg)
 
 
-![Screenshot of load page](ADD RELATIVE IMAGE PATH HERE)
-
-
-### Data
+## Data
 
 The application uses the following data inputs:
-* Weather information is provided by the OpenWeather [OpenWeatherMap API](https://openweathermap.org/). [Documentation](https://openweathermap.org/api) can be found here.
+* Weather information is provided by the OpenWeather [OpenWeatherMap API](https://openweathermap.org/). [Documentation](https://openweathermap.org/api) 
 
 
-### Build
+## Build
 
 * In HTML semantic tags have been used to aid with accessibility.
 * The site is built using Bulma CSS framework.
@@ -68,8 +48,6 @@ The application uses the following data inputs:
 
 ## Setup
 Download the zipped folder or clone the repository. 
-To clone the repo:
-```
-git clone git@github.com:
-``` 
+To clone the repo: https://github.com/karafaris/WeatherDashboard.git
+
 
