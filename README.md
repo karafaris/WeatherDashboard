@@ -29,6 +29,9 @@ My motivation was to create an application where you could search a city and the
 ## Visuals:
 ![Screenshot of loaded weather dashboard](/media/weather-dashboard-screenshot.jpg)
 
+## Live Site URL
+https://karafaris.github.io/WeatherDashboard/
+
 
 ## Data
 
